@@ -2,7 +2,7 @@ Activité d'introduction à GitHub
 
 Partie 1 : Créez un compte GitHub 
 
-Allez à https://github.com et créez un compte. 
+1. Allez à https://github.com et créez un compte. 
 
  * Nom d'utilisateur : Choisissez un nom facile à retenir. 
 
