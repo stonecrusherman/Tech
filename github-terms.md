@@ -98,7 +98,7 @@ permet à plusieurs personnes de...
  - et de fusionner les modifications de manière efficace 
 
  
-<br />
+<br /><br />
  * Créez un nouveau repository dans votre compte GitHub et ajoutez un fichier nommé github-terms.md.  
 
    - Mettre le entier de ce document dans ton fichier  
