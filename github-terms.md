@@ -65,15 +65,15 @@ Termes à définir :
 
 10. **README** 
 
-   - Définition : Un fichier expliquant le projet. 
+      - Définition : Un fichier expliquant le projet. 
 
 11. **Git** 
 
-   - Définition : Un système de gestion de version. 
+      - Définition : Un système de gestion de version. 
 
 12. **Version Control** 
 
-   - Définition : Suivi des modifications apportées au code. 
+      - Définition : Suivi des modifications apportées au code. 
 
  
 
