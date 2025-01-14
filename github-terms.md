@@ -13,9 +13,8 @@
 
 3. Explorez l'interface GitHub : 
 
-   - Familiarisez-vous avec les onglets comme "Repositories" et "Pull requests". 
-
-
+   - Familiarisez-vous avec les onglets comme "Repositories" et "Pull requests".
+<br /><br />
 ## Partie 2 : Question d’introduction 
 
  - Question : Rechercher et expliquer ce que c’est le contrôle de version : 
