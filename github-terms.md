@@ -87,7 +87,7 @@ Termes à définir :
 
 Il permet aux développeurs de faire plusieurs choses importantes. Enregistrer et suivre les modifications ou chaque modification apportée à la base de code est enregistrée. On peut aussi revenir aux versions précédentes. Si quelque chose se casse, vous pouvez revenir à une version stable. Aussi, plusieurs développeurs peuvent travailler sur le même projet . 
 
- - Comment GitHub peut-il vous aider à **collaborer** sur des projets de codage ? 
+ * Comment GitHub peut-il vous aider à **collaborer** sur des projets de codage ? 
 
 permet à plusieurs personnes de... 
 
