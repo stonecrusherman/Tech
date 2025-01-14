@@ -96,8 +96,6 @@ permet à plusieurs personnes de...
  - de discuter des problèmes  
 
  - et de fusionner les modifications de manière efficace 
-
- 
 <br /><br />
  * Créez un nouveau repository dans votre compte GitHub et ajoutez un fichier nommé github-terms.md.  
 
