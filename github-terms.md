@@ -21,13 +21,11 @@
 
  - Question : Rechercher et expliquer ce que c’est le contrôle de version : 
 
- 
-
 Le contrôle de version est un système qui permet de suivre les modifications apportées aux fichiers au fil du temps.  
 
-Shape 
+\ 
 
-Partie 3 : Chasse aux termes GitHub 
+**Partie 3 : Chasse aux termes GitHub** 
 
 Voici une liste de termes clés à définir. Faites des recherches et écrivez les définitions avec vos propres mots.  
 
