@@ -80,7 +80,7 @@ Termes à définir :
  
 
  
-
+<br /><br />
 ## Partie 4: Créer un fichier
 
  - Pourquoi pensez-vous que le contrôle de version est important dans le développement logiciel ? 
@@ -89,7 +89,7 @@ Il permet aux développeurs de faire plusieurs choses importantes. Enregistrer e
 
  - Comment GitHub peut-il vous aider à **collaborer** sur des projets de codage ? 
 
- - permet à plusieurs personnes de... 
+permet à plusieurs personnes de... 
 
  - contribuer à un projet, de revoir le code,  
 
@@ -98,7 +98,7 @@ Il permet aux développeurs de faire plusieurs choses importantes. Enregistrer e
  - et de fusionner les modifications de manière efficace 
 
  
-
+<br />
  - Créez un nouveau repository dans votre compte GitHub et ajoutez un fichier nommé github-terms.md.  
 
    - Mettre le entier de ce document dans ton fichier  
