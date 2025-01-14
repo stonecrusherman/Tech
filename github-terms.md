@@ -99,7 +99,7 @@ permet à plusieurs personnes de...
 
  
 <br />
- - Créez un nouveau repository dans votre compte GitHub et ajoutez un fichier nommé github-terms.md.  
+ * Créez un nouveau repository dans votre compte GitHub et ajoutez un fichier nommé github-terms.md.  
 
    - Mettre le entier de ce document dans ton fichier  
 
