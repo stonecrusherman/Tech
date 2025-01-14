@@ -4,9 +4,9 @@ Partie 1 : Créez un compte GitHub
 
 Allez à https://github.com et créez un compte. 
 
-Nom d'utilisateur : Choisissez un nom facile à retenir. 
+-Nom d'utilisateur : Choisissez un nom facile à retenir. 
 
-Adresse e-mail : Utilisez un courriel qui n’est pas ton compte d’école car ça serait supprimé en juin 
+-Adresse e-mail : Utilisez un courriel qui n’est pas ton compte d’école car ça serait supprimé en juin 
 
 Vérifiez votre adresse e-mail : 
 
