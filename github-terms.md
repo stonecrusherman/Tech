@@ -9,11 +9,11 @@ Partie 1 : Créez un compte GitHub
 
 2. Vérifiez votre adresse e-mail : 
 
- - Consultez votre boîte mail et cliquez sur le lien de vérification envoyé par GitHub. 
+   - Consultez votre boîte mail et cliquez sur le lien de vérification envoyé par GitHub. 
 
 Explorez l'interface GitHub : 
 
- - Familiarisez-vous avec les onglets comme "Repositories" et "Pull requests". 
+   - Familiarisez-vous avec les onglets comme "Repositories" et "Pull requests". 
 
  
 
@@ -37,51 +37,51 @@ Termes à définir :
 
 1. Repository 
 
- - Définition : Un espace où le code source est stocké et géré. 
+   - Définition : Un espace où le code source est stocké et géré. 
 
 2. Commit 
 
- - Définition : Un enregistrement des modifications apportées au code. 
+   - Définition : Un enregistrement des modifications apportées au code. 
 
 3. Push 
 
- - Définition : Envoyer des commits locaux vers un repository. 
+   - Définition : Envoyer des commits locaux vers un repository. 
 
 4. Pull 
 
- - Définition : Récupérer et intégrer les modifications d’un repository a ta version locale. 
+   - Définition : Récupérer et intégrer les modifications d’un repository a ta version locale. 
 
 5. Clone 
 
- - Définition : Copier un repository distant sur une machine locale. 
+   - Définition : Copier un repository distant sur une machine locale. 
 
 6. Fork 
 
- - Définition : Copier un repository existant pour le travailler indépendamment. 
+   - Définition : Copier un repository existant pour le travailler indépendamment. 
 
 7. Pull Request 
 
- - Définition : Proposition de fusion de modifications dans un projet. 
+   - Définition : Proposition de fusion de modifications dans un projet. 
 
 8. Branch 
 
- - Définition : Une version parallèle d’un repository. 
+   - Définition : Une version parallèle d’un repository. 
 
 9. Merge 
 
- - Définition : Combiner des branches. 
+   - Définition : Combiner des branches. 
 
 10. README 
 
- - Définition : Un fichier expliquant le projet. 
+   - Définition : Un fichier expliquant le projet. 
 
 11. Git 
 
- - Définition : Un système de gestion de version. 
+   - Définition : Un système de gestion de version. 
 
 12. Version Control 
 
- - Définition : Suivi des modifications apportées au code. 
+   - Définition : Suivi des modifications apportées au code. 
 
  
 
@@ -109,8 +109,8 @@ Il permet aux développeurs de faire plusieurs choses importantes. Enregistrer e
 
  - Créez un nouveau repository dans votre compte GitHub et ajoutez un fichier nommé github-terms.md.  
 
- - Mettre le entier de ce document dans ton fichier  
+   - Mettre le entier de ce document dans ton fichier  
 
- - Explorer ce que c’est un fichier .md  
+   - Explorer ce que c’est un fichier .md  
 
- - Changer le format du document en utilisant le propre mark down 
+   - Changer le format du document en utilisant le propre mark down 
