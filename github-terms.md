@@ -15,16 +15,13 @@
 
    - Familiarisez-vous avec les onglets comme "Repositories" et "Pull requests". 
 
- 
 
 ## Partie 2 : Question d’introduction 
 
  - Question : Rechercher et expliquer ce que c’est le contrôle de version : 
 
 Le contrôle de version est un système qui permet de suivre les modifications apportées aux fichiers au fil du temps.  
-
 <br /><br />
-
 ## Partie 3 : Chasse aux termes GitHub
 
 Voici une liste de termes clés à définir. Faites des recherches et écrivez les définitions avec vos propres mots.  
