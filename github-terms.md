@@ -38,51 +38,51 @@ Termes à définir :
 
 1. Repository 
 
-+ Définition : Un espace où le code source est stocké et géré. 
+ - Définition : Un espace où le code source est stocké et géré. 
 
 2. Commit 
 
-o Définition : Un enregistrement des modifications apportées au code. 
+ - Définition : Un enregistrement des modifications apportées au code. 
 
 3. Push 
 
-o Définition : Envoyer des commits locaux vers un repository. 
+ - Définition : Envoyer des commits locaux vers un repository. 
 
 4. Pull 
 
-o Définition : Récupérer et intégrer les modifications d’un repository a ta version locale. 
+ - Définition : Récupérer et intégrer les modifications d’un repository a ta version locale. 
 
 5. Clone 
 
-o Définition : Copier un repository distant sur une machine locale. 
+ - Définition : Copier un repository distant sur une machine locale. 
 
 6. Fork 
 
-o Définition : Copier un repository existant pour le travailler indépendamment. 
+ - Définition : Copier un repository existant pour le travailler indépendamment. 
 
 7. Pull Request 
 
-o Définition : Proposition de fusion de modifications dans un projet. 
+ - Définition : Proposition de fusion de modifications dans un projet. 
 
 8. Branch 
 
-o Définition : Une version parallèle d’un repository. 
+ - Définition : Une version parallèle d’un repository. 
 
 9. Merge 
 
-o Définition : Combiner des branches. 
+ - Définition : Combiner des branches. 
 
 10. README 
 
-o Définition : Un fichier expliquant le projet. 
+ - Définition : Un fichier expliquant le projet. 
 
 11. Git 
 
-o Définition : Un système de gestion de version. 
+ - Définition : Un système de gestion de version. 
 
 12. Version Control 
 
-o Définition : Suivi des modifications apportées au code. 
+ - Définition : Suivi des modifications apportées au code. 
 
  
 
@@ -92,26 +92,26 @@ o Définition : Suivi des modifications apportées au code.
 
 Partie 4: Créer un fichier 
 
-Pourquoi pensez-vous que le contrôle de version est important dans le développement logiciel ? 
+ - Pourquoi pensez-vous que le contrôle de version est important dans le développement logiciel ? 
 
 Il permet aux développeurs de faire plusieurs choses importantes. Enregistrer et suivre les modifications ou chaque modification apportée à la base de code est enregistrée. On peut aussi revenir aux versions précédentes. Si quelque chose se casse, vous pouvez revenir à une version stable. Aussi, plusieurs développeurs peuvent travailler sur le même projet . 
 
-Comment GitHub peut-il vous aider à collaborer sur des projets de codage ? 
+ - Comment GitHub peut-il vous aider à collaborer sur des projets de codage ? 
 
-permet à plusieurs personnes de... 
+ - permet à plusieurs personnes de... 
 
-contribuer à un projet, de revoir le code,  
+ - contribuer à un projet, de revoir le code,  
 
-de discuter des problèmes  
+ - de discuter des problèmes  
 
-et de fusionner les modifications de manière efficace 
+ - et de fusionner les modifications de manière efficace 
 
  
 
-Créez un nouveau repository dans votre compte GitHub et ajoutez un fichier nommé github-terms.md.  
+ - Créez un nouveau repository dans votre compte GitHub et ajoutez un fichier nommé github-terms.md.  
 
-Mettre le entier de ce document dans ton fichier  
+ - Mettre le entier de ce document dans ton fichier  
 
-Explorer ce que c’est un fichier .md  
+ - Explorer ce que c’est un fichier .md  
 
-Changer le format du document en utilisant le propre mark down 
+ - Changer le format du document en utilisant le propre mark down 
