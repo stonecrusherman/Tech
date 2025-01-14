@@ -23,7 +23,7 @@
 
 Le contrôle de version est un système qui permet de suivre les modifications apportées aux fichiers au fil du temps.  
 
-<br />
+<br /><br />
 
 **Partie 3 : Chasse aux termes GitHub** 
 
