@@ -1,4 +1,4 @@
-# Activité d'introduction à GitHub 
+# <font color="blue">Activité d'introduction à GitHub </font>
 
 **Partie 1 : Créez un compte GitHub** 
 
